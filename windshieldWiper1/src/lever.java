@@ -7,9 +7,9 @@ public class lever {
 		this.leverPosition=lev;
 	}
 	
-	// Get the current position of the lever.
+	// Get the current position of the lever. testing git
 	public String getLeverPosition() {
-	return this.leverPosition;
+	return leverPosition;
 	}
 	// Set the lever position.
 	public void setLeverPosition(String leverPosition) {
