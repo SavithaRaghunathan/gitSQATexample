@@ -1,4 +1,3 @@
-
 public class lever {
 
 	private String leverPosition;
@@ -10,7 +9,7 @@ public class lever {
 	
 	// Get the current position of the lever.
 	public String getLeverPosition() {
-	return leverPosition;
+	return this.leverPosition;
 	}
 	// Set the lever position.
 	public void setLeverPosition(String leverPosition) {
